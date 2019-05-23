@@ -1,5 +1,5 @@
 # Walking Marvin
-ML project for 42 School Silicon Valley
+ML project for 42 School Silicon Valley, by @JohnnyJumper and me.
 
 Teach Marvin to walk with OpenAI Gym.
 
